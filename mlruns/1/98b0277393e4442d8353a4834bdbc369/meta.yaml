@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/valentinosmouxouris/code/ValentinosM/TaxiFareModel/mlruns/1/98b0277393e4442d8353a4834bdbc369/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 98b0277393e4442d8353a4834bdbc369
+run_uuid: 98b0277393e4442d8353a4834bdbc369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1659634810412
+status: 1
+tags: []
+user_id: unknown

@@ -8,7 +8,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # This program built for i386-apple-darwin11.3.0
  
 
-# Make data base, printed on Wed Aug  3 18:12:45 2022
+# Make data base, printed on Thu Aug  4 18:47:57 2022
 
 # Variables
 
@@ -43,7 +43,6 @@ PYPI_USERNAME = <AUTHOR>
 # environment
 VSCODE_CWD = /Users/valentinosmouxouris/code/ValentinosM/TaxiFareModel
 # environment
- 
 PATH = ./bin:./node_modules/.bin:/Users/valentinosmouxouris/.pyenv/plugins/pyenv-virtualenv/shims:/Users/valentinosmouxouris/.rbenv/bin:/Users/valentinosmouxouris/.pyenv/plugins/pyenv-virtualenv/shims:/Users/valentinosmouxouris/.pyenv/shims:/Users/valentinosmouxouris/.pyenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/valentinosmouxouris/.fig/bin:/Users/valentinosmouxouris/.local/bin:/usr/local/sbin
 # environment
 LSCOLORS = Gxfxcxdxbxegedabagacad
@@ -60,9 +59,9 @@ SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.FFgmCbiPcQ/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
-TTY = /dev/ttys002
+TTY = /dev/ttys004
 # environment
-FIG_PID = 21094
+FIG_PID = 49369
 # environment
 PWD = /Users/valentinosmouxouris/code/ValentinosM/TaxiFareModel
 # environment
@@ -108,7 +107,7 @@ USER = valentinosmouxouris
 # environment
 FIG_TERM_VERSION = 4.4.2
 # environment
-TERM_SESSION_ID = 25D3BC6F-CD4F-4BA8-B842-8214EF4BCD94
+TERM_SESSION_ID = 8E5A4D0F-4AC0-4942-A209-31AA3854295D
 # environment
 LESS = -R
 # automatic
@@ -142,7 +141,7 @@ TERM_PROGRAM_VERSION = 445
 # environment
 NVM_DIR = /Users/valentinosmouxouris/.nvm
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.8816236.8816242.D2C59FBD-375C-4CEC-B272-34BDBF1DCA7B
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.8816236.8816242.E603C5E2-78D4-483D-9CFA-08523AE79779
 # automatic
 +D = $(patsubst %/,%,$(dir $+))
 # automatic
@@ -187,16 +186,15 @@ VSCODE_PID = 22049
  
 # Load=85/1024=8%, Rehash=0, Collisions=4/111=4%
 
- 
 # Pattern-specific Variable Values
 
 # No pattern-specific variable values.
 
 # Directories
 
-# . (device 16777232, inode 9644590): 17 files, no impossibilities.
+# . (device 16777232, inode 9644590): 20 files, no impossibilities.
 
-# 17 files, no impossibilities in 1 directories.
+# 20 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -243,7 +241,6 @@ pypi:
 #  Modification time never checked.
 #  File has not been updated.
 
- 
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
@@ -370,6 +367,6 @@ install:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Wed Aug  3 18:12:45 2022
+# Finished Make data base on Thu Aug  4 18:47:57 2022
 
  
